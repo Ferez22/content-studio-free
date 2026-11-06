@@ -184,4 +184,4 @@ want, I set it up with you.
 
 MIT. Use it, fork it, sell what you build with it. A link back is always appreciated.
 
-Made by [Fares Aouani Cherif](https://faresaouani.com).
+Made by [Fares Aouani Cherif](https://www.faresaouani.com/en/blog/content-studio-free).
