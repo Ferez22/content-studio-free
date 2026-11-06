@@ -40,6 +40,7 @@ you have. This repo is a small, working one, built for marketing.
 | | |
 |---|---|
 | 🎙️ **Learns your voice** | An interview turns your best posts into a written voice guide |
+| 🗺️ **Plans before it writes** | Every post starts as a plan: the idea refined, the goal, why you post it, who it's for |
 | ✍️ **Writes your posts** | Three hooks, one draft, a variant per platform (LinkedIn, Instagram, X) |
 | 🧪 **Checks every word** | A built-in checker blocks AI tells, em dashes and "translated" French before you see a draft |
 | 🔁 **Remembers corrections** | Every edit you make is logged. Twice the same lesson, and it becomes a rule |
@@ -115,7 +116,7 @@ content-studio-free/
 ├── knowledge/                 your own frameworks and reference tables
 └── .claude/skills/
     ├── setup/                 🎙️ onboarding interview
-    ├── write-post/            ✍️ hooks, draft, platform variants
+    ├── write-post/            ✍️ plan, hooks, draft, platform variants
     ├── humanize/              🧪 check.py + EN and FR lexicons
     └── learn/                 🔁 turns feedback into rules
 ```
@@ -123,7 +124,7 @@ content-studio-free/
 | Skill | When it runs | What you get |
 |---|---|---|
 | `setup` | first run, or "setup" | `brand.md` and `voice.md`, validated by you |
-| `write-post` | "write a post about...", "what should I post?" | 3 hooks, 1 draft, platform variants, saved in `posts/` |
+| `write-post` | "write a post about...", "what should I post?" | a plan to approve, then 3 hooks, 1 draft, platform variants, saved in `posts/` |
 | `humanize` | before any text reaches you | a clean draft, or a list of what to fix |
 | `learn` | "weekly review", or after 5 new corrections | new rules, and voice changes for you to approve |
 

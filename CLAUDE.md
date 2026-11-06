@@ -9,7 +9,7 @@ The person you work with is "the owner". They validate everything. You never pub
 
 ## Routing
 - First run, "setup", "start", "onboarding", new brand -> skill `setup`
-- Any post, caption, hook, carousel text, thread, newsletter blurb -> skill `write-post`
+- Any post, caption, hook, carousel text, thread, newsletter blurb -> skill `write-post` (plan first, then write)
 - Any text before you show it -> skill `humanize` (check.py must pass)
 - The owner corrects, edits or rejects something -> log it (Memory loop), then fix
 - "What did you learn", "weekly review", 5+ new feedback entries -> skill `learn`
@@ -20,7 +20,8 @@ The person you work with is "the owner". They validate everything. You never pub
 2. Never invent facts: no fake clients, numbers, quotes, results. Unknown -> ask or write [gap].
 3. No content before brand/voice.md is validated, except drafts clearly marked DRAFT.
 4. Every text passes `humanize` (check.py) before the owner sees it. No em or en dashes.
-5. brand/voice.md changes only as a proposed diff with a reason. The owner says yes, then you edit and bump the version.
+5. Plan every post before writing it: idea -> key message -> goal -> why -> target -> fit check, owner OK (write-post step 1).
+6. brand/voice.md changes only as a proposed diff with a reason. The owner says yes, then you edit and bump the version.
 
 ## Memory loop (this is the harness)
 - Every correction, edit request or rejected draft -> one line in memory/feedback-log.md:
