@@ -1,6 +1,6 @@
 ---
 name: learn
-description: The self-improvement loop of the marketing harness. Reads memory/feedback-log.md and post results, finds lessons that repeat, promotes them to memory/learnings.md, adds new patterns to the humanize lexicon, and proposes dated changes to brand/voice.md for the owner to approve. Use for "what did you learn", "weekly review", "review my feedback", after results come in, or when the feedback log has 5+ entries since the last review.
+description: The self-improvement loop of content-studio-free. Reads memory/feedback-log.md and post results, finds lessons that repeat, promotes them to memory/learnings.md, adds new patterns to the humanize lexicon, and proposes dated changes to brand/voice.md for the owner to approve. Use for "what did you learn", "weekly review", "review my feedback", after results come in, or when the feedback log has 5+ entries since the last review.
 ---
 
 # learn

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Marketing Harness
+# 🧠 content-studio-free
 
 **A Claude setup that writes your posts in your voice, remembers every correction, and gets better every week.**
 
@@ -39,7 +39,7 @@ you have. This repo is a small, working one, built for marketing.
 
 | | |
 |---|---|
-| 🎙️ **Learns your voice** | A 15-minute interview turns your best posts into a written voice guide |
+| 🎙️ **Learns your voice** | An interview turns your best posts into a written voice guide |
 | ✍️ **Writes your posts** | Three hooks, one draft, a variant per platform (LinkedIn, Instagram, X) |
 | 🧪 **Checks every word** | A built-in checker blocks AI tells, em dashes and "translated" French before you see a draft |
 | 🔁 **Remembers corrections** | Every edit you make is logged. Twice the same lesson, and it becomes a rule |
@@ -74,8 +74,8 @@ One correction is an anecdote. Two is a pattern. The harness only changes your v
 ### With Claude Code (recommended)
 
 ```bash
-git clone https://github.com/Ferez22/marketing-harness.git
-cd marketing-harness
+git clone https://github.com/Ferez22/content-studio-free.git
+cd content-studio-free
 claude
 ```
 
@@ -85,7 +85,7 @@ Then type:
 start
 ```
 
-Claude reads `CLAUDE.md`, sees that your voice guide is empty and runs the `setup` interview. About 15 minutes later,
+Claude reads `CLAUDE.md`, sees that your voice guide is empty and runs the `setup` interview. Then
 it writes your first post.
 
 ### With Claude Cowork
@@ -102,7 +102,7 @@ it writes your first post.
 ## What's inside
 
 ```
-marketing-harness/
+content-studio-free/
 ├── CLAUDE.md                  🧭 the rules: routing, hard rules, memory loop
 ├── brand/
 │   ├── brand.md               facts: offer, audience, proof (never invented)
@@ -176,7 +176,7 @@ The full **Content Studio** runs several brands, SEO articles shipped as pull re
 motion videos rendered in code, brand assets, and a guided onboarding. It comes with lifetime updates and, if you
 want, I set it up with you.
 
-👉 **[faresaouani.com](https://faresaouani.com)**
+👉 **[The guide: faresaouani.com/en/blog/content-studio-free](https://www.faresaouani.com/en/blog/content-studio-free)**
 
 ---
 

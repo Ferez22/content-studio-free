@@ -1,13 +1,13 @@
 ---
 name: setup
-description: First-run onboarding of the marketing harness. Interviews the owner about their brand (facts) and their voice (how they write), reads their website and past posts if given, then fills brand/brand.md and brand/voice.md and gets them validated. Use on first run, when brand/voice.md says "Status: missing", or when the owner says setup, start, onboarding, or "new brand".
+description: First-run onboarding of content-studio-free. Interviews the owner about their brand (facts) and their voice (how they write), reads their website and past posts if given, then fills brand/brand.md and brand/voice.md and gets them validated. Use on first run, when brand/voice.md says "Status: missing", or when the owner says setup, start, onboarding, or "new brand".
 ---
 
 # setup
 Rules (same as CLAUDE.md, repeated for Claude Cowork): never publish or post; never invent facts or numbers; no em
 or en dashes; run `humanize` before showing text; log every correction in memory/feedback-log.md; brand/voice.md
 changes only after the owner says yes.
-Goal: in 15-20 minutes, the harness knows the brand and writes like the owner. One step at a time. Talk in the owner's
+Goal: the harness knows the brand and writes like the owner. One step at a time. Talk in the owner's
 language. Max 3-4 questions per message, offer options when you can, "skip" is always allowed (write [gap]).
 
 ## Step 1: welcome (3 lines)
